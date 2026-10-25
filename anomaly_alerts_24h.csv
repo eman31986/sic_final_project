@@ -1,0 +1,8 @@
+datetime,actual_power_W,predicted_power_W,residual_W,residual_pct,anomaly_count_6h,alert_reason
+2022-07-25 17:00:00,8.67,13.06622377102663,-4.39622377102663,-33.64571010007441,2.0,Actual power is at least 20% below forecast for at least 3 of the last 6 hours.
+2022-07-25 18:00:00,5.67,4.087543273268262,1.5824567267317375,38.71412780093844,2.0,Actual power is at least 20% below forecast for at least 3 of the last 6 hours.
+2022-07-25 19:00:00,1.28,2.009565429690818,-0.7295654296908178,-36.30463675935475,2.0,Actual power is at least 20% below forecast for at least 3 of the last 6 hours.
+2022-07-25 20:00:00,0.0,0.686951026303793,-0.686951026303793,-100.0,2.0,Actual power is at least 20% below forecast for at least 3 of the last 6 hours.
+2022-08-04 17:00:00,7.97,13.346905993366114,-5.3769059933661145,-40.285786054375656,2.0,Actual power is at least 20% below forecast for at least 3 of the last 6 hours.
+2022-08-04 18:00:00,3.06,3.8581047834135203,-0.7981047834135202,-20.68644653832818,2.0,Actual power is at least 20% below forecast for at least 3 of the last 6 hours.
+2022-08-04 19:00:00,0.78,1.0259966697785148,-0.24599666977851475,-23.976361427334737,2.0,Actual power is at least 20% below forecast for at least 3 of the last 6 hours.

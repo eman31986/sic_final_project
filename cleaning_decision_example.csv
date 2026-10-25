@@ -1,0 +1,2 @@
+horizon_days,expected_energy_kwh,actual_energy_kwh,estimated_loss_kwh,recoverable_energy_kwh,electricity_price,revenue_gain,cleaning_cost,net_benefit,decision
+7,100000,82000,18000,14400.0,2,28800.0,50,28750.0,Clean
